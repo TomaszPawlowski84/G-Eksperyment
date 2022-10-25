@@ -1,0 +1,12 @@
+git checkout
+git add
+git commit
+git branch
+git status
+git log
+git reset
+git pull
+git push
+git merge
+git rebase
+git cherry-pick
