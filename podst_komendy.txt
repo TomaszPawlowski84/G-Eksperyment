@@ -1,12 +1,37 @@
-git checkout
-git add
-git commit
-git branch
-git status
-git log
-git reset
-git pull
-git push
-git merge
-git rebase
-git cherry-pick
+git checkout - przełączanie gałęzi lub przywracanie plików drzewa roboczego
+
+git add - dodaje plik do stading area
+
+git commit  - tworzy komita ze stading area
+
+git branch -wyświetlanie listy, tworzenie i usuwanie gałęzi
+
+git status - pokazuje stan drzewa roboczego
+
+git log - pokazuje co zatwierdzono
+
+git reset - resetuje bieżącego HEAD do określonego stanu
+
+git pull ­ pobiera i integruje z innym repozytorium lub oddziałem lokalnym
+
+git push - aktualizuje zdalne odwołania wraz z powiązanymi obiektami
+
+git merge - łączy dwie lub więcej historii rozwoju
+
+git rebase - integruje zmiany z jednej gałęzi do drugiej
+
+git cherry - pick Zastosuj zmiany wprowadzone przez niektóre istniejące zatwierdzenia
+
+touch nazwa_pliku - tworzy plik
+vi – edytuje plikgit checkout
+
+
+
+
+
+
+
+
+
+
+
